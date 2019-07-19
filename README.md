@@ -1,4 +1,4 @@
-# Addressable-LED-Resources
+# Addressable LED Resources
 A community sourced collection of resources for makers and LED enthusiasts
 
 ## Libraries
