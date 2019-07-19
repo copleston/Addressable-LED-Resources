@@ -23,7 +23,7 @@ A community sourced collection of resources for makers and LED enthusiasts
 [**Neonedit**](http://www.neonedit.com/)
 
 ## Demos
-[**atuline's collection of FastLED-Demo**](https://github.com/atuline/FastLED-Demos)
+[**atuline's collection of FastLED Demos**](https://github.com/atuline/FastLED-Demos)
 
 [**Mark Kriegsman's Demos**](https://gist.github.com/kriegsman)
 
