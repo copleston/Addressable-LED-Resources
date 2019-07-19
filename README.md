@@ -23,3 +23,6 @@ A community sourced collection of resources for makers and LED enthusiasts
 
 ## Demos
 [atuline's collection of FastLED-Demo](https://github.com/atuline/FastLED-Demos)
+[Mark Kriegsman's Demos](https://gist.github.com/kriegsman)
+[Marc Miller's collection of FastLED Demos](https://github.com/marmilicious/FastLED_examples)
+[chemdoc77's Collection of FastLED Demos](https://gist.github.com/chemdoc77)
