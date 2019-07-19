@@ -2,30 +2,31 @@
 A community sourced collection of resources for makers and LED enthusiasts
 
 ## Libraries
-[FastLED](https://github.com/FastLED/FastLED)
+[**FastLED**](https://github.com/FastLED/FastLED) - A comprehensive library for driving a huge range of addressable LEDs
 
-[Adafruit Neopixel](https://github.com/adafruit/Adafruit_NeoPixel)
+[**Adafruit Neopixel**](https://github.com/adafruit/Adafruit_NeoPixel) - Adafruit's own library for driving addressable LEDs
 
-[ColorChord](https://github.com/cnlohr/colorchord)
+[**ColorChord**](https://github.com/cnlohr/colorchord) - A Chromatic Sound to Light Conversion System
+
 
 ## Pattern & Animation Tools
 ### Free
-[VixenLights](http://www.vixenlights.com/)
+[**VixenLights**](http://www.vixenlights.com/)
 
-[Lightwork Editor](https://hohmbody.com/flickerstrip/lightwork/)
+[**Lightwork Editor**](https://hohmbody.com/flickerstrip/lightwork/)
 
-[Glediator](http://www.solderlab.de/index.php/software/glediator)
+[**Glediator**](http://www.solderlab.de/index.php/software/glediator)
 
 ### Paid
-[Madrix](https://www.madrix.com/)
+[**Madrix**](https://www.madrix.com/)
 
-[Neonedit](http://www.neonedit.com/)
+[**Neonedit**](http://www.neonedit.com/)
 
 ## Demos
-[atuline's collection of FastLED-Demo](https://github.com/atuline/FastLED-Demos)
+[**atuline's collection of FastLED-Demo**](https://github.com/atuline/FastLED-Demos)
 
-[Mark Kriegsman's Demos](https://gist.github.com/kriegsman)
+[**Mark Kriegsman's Demos**](https://gist.github.com/kriegsman)
 
-[Marc Miller's collection of FastLED Demos](https://github.com/marmilicious/FastLED_examples)
+[**Marc Miller's collection of FastLED Demos**](https://github.com/marmilicious/FastLED_examples)
 
-[chemdoc77's Collection of FastLED Demos](https://gist.github.com/chemdoc77)
+[**chemdoc77's Collection of FastLED Demos**](https://gist.github.com/chemdoc77)
