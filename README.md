@@ -15,6 +15,8 @@ A community sourced collection of resources for makers and LED enthusiasts
 
 ## Pattern & Animation Tools
 ### Free
+[**MagicQ Software**](https://chamsyslighting.com/products/magicq) - For live performances
+
 [**VixenLights**](http://www.vixenlights.com/) - Light-show automation
 
 [**Lightwork Editor**](https://hohmbody.com/flickerstrip/lightwork/) - LED strip pattern animation designer
@@ -29,6 +31,8 @@ A community sourced collection of resources for makers and LED enthusiasts
 [**Madrix**](https://www.madrix.com/)
 
 [**Neonedit**](http://www.neonedit.com/)
+
+[**Resolume Arena**](https://resolume.com/software) - Industry standard for VJ, great for pixel mapping but very expensive
 
 ## Demos
 [**atuline's collection of FastLED Demos**](https://github.com/atuline/FastLED-Demos)
