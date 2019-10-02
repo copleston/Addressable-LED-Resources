@@ -21,7 +21,7 @@ A community sourced collection of resources for makers and LED enthusiasts
 
 [**Lightwork Editor**](https://hohmbody.com/flickerstrip/lightwork/) - LED strip pattern animation designer
 
-[**Glediator**](http://www.solderlab.de/index.php/software/glediator)
+[**Glediator**](https://oneguyoneblog.com/downloads/)
 
 [**Jinx!**](http://www.live-leds.de) - LED Matrix Control
 
