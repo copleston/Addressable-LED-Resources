@@ -17,6 +17,11 @@ A community sourced collection of resources for makers and LED enthusiasts
 
 [**WLED**](https://github.com/Aircoookie/WLED) - Solution for controlling WS2812B RGB LEDs with an ESP8266 over WiFi
 
+[**LedFx**](https://github.com/ahodges9/LedFx) - network based LED effect controller with support for advanced real-time audio effects (w/ DMX & sACN Support)
+
+[**Audio Reactive LED Strip**](https://github.com/scottlawsonbc/audio-reactive-led-strip) - Uses a computer as a controller
+
+
 
 ## Pattern & Animation Tools
 ### Free
