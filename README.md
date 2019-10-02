@@ -12,6 +12,11 @@ A community sourced collection of resources for makers and LED enthusiasts
 
 [**FastLED Neomatrix**](https://github.com/marcmerlin/FastLED_NeoMatrix) - Adafruit GFX compatible library for NeoPixel based Matrices
 
+## MCU / LED Controllers
+[**McLighting**](https://github.com/toblum/McLighting) - The ESP8266 based multi-client lighting gadget
+
+[**WLED**](https://github.com/Aircoookie/WLED) - Solution for controlling WS2812B RGB LEDs with an ESP8266 over WiFi
+
 
 ## Pattern & Animation Tools
 ### Free
